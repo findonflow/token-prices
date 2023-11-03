@@ -1,9 +1,9 @@
 [
- {
-  "symbol": "FLOW",
-  "circulatingSupply": 1036200000.0,
-  "maxSupply":  1463365667.94205390,
-  "provider": "findlabs",
-  "lastUpdatedTimestamp": 1698910127
- }
+  {
+    "symbol": "FLOW",
+    "circulatingSupply": 1036200000.0,
+    "maxSupply": 1464733706.51205390,
+    "provider": "findlabs",
+    "lastUpdatedTimestamp": 1699033615
+  }
 ]
